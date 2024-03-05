@@ -1,0 +1,391 @@
+{
+   "status":200,
+   "data":{
+      "next_to_go_ids":[
+         "8ba7b0e6-97f4-4ac7-8155-ef8e96dec686",
+         "9a6c5242-41a1-4277-b9a1-3ead79777fdb",
+         "6214794a-f3ee-4a0a-aa87-8b12731205bc",
+         "a30ef7dc-e0f2-428d-a9b6-f8ee469d7bbf",
+         "79bda488-c48f-4420-be1c-bdeb5fdc1482",
+         "715053fa-e379-4fc4-8e30-7f210c85002e",
+         "0f6fd4b3-321d-4db2-8526-8ab5e38e2591",
+         "7ffac9f4-1dbb-429f-9b31-372ca95718c5",
+         "4df25174-bd60-4b46-9c9e-7a1e1a3c2240",
+         "047f8950-b862-44b0-a039-0ae94fc146c4"
+      ],
+      "race_summaries":{
+         "047f8950-b862-44b0-a039-0ae94fc146c4":{
+            "race_id":"047f8950-b862-44b0-a039-0ae94fc146c4",
+            "race_name":"Borgbet Tipping Service Maiden H",
+            "race_number":1,
+            "meeting_id":"67287e7f-fd46-4ee8-b66e-eebabe039c1e",
+            "meeting_name":"Albion Park",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1710056040
+            },
+            "race_form":{
+               "distance":331,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"REGAL BEACH (1) is a first starter from the Scott Mcguiness kennel by My Redeemer out of Regal Sapphire. Gets every chance from the inside draw. Strong market watch advised but profiles nicely for this. FIRE UP BAZ (2) is yet to break through in six starts but has run a number of placings. Is better than last start when out of the placings, finishing sixth (26.53) at Ipswich. Better than last start and can bounce back. GOOFY'S BROTHER (7) turned in a modest effort most recently when fifth at this track over 331m behind Bundy Herrera (20.40) in a Maiden. Should be in this for a long way. CRAZY MATRIX (6) cannot be underestimated.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Albion Park\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"Borgbet Tipping Service Maiden H\",\"time\":\"2024-03-10T07:34:00Z\",\"class\":\"Maiden\",\"start_type\":\"\",\"prizemonies\":{\"1st\":1560,\"2nd\":480,\"3rd\":240,\"4th\":120,\"total_value\":2400},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"REGAL BEACH (1) is a first starter from the Scott Mcguiness kennel by My Redeemer out of Regal Sapphire. Gets every chance from the inside draw. Strong market watch advised but profiles nicely for this. FIRE UP BAZ (2) is yet to break through in six starts but has run a number of placings. Is better than last start when out of the placings, finishing sixth (26.53) at Ipswich. Better than last start and can bounce back. GOOFY'S BROTHER (7) turned in a modest effort most recently when fifth at this track over 331m behind Bundy Herrera (20.40) in a Maiden. Should be in this for a long way. CRAZY MATRIX (6) cannot be underestimated."
+            },
+            "venue_id":"12c496d8-9397-4ba4-ba3c-d34ca3625858",
+            "venue_name":"Albion Park",
+            "venue_state":"QLD",
+            "venue_country":"AUS"
+         },
+         "0f6fd4b3-321d-4db2-8526-8ab5e38e2591":{
+            "race_id":"0f6fd4b3-321d-4db2-8526-8ab5e38e2591",
+            "race_name":"7F Hcap",
+            "race_number":8,
+            "meeting_id":"25f6e236-c59c-414f-932f-7426035da7b4",
+            "meeting_name":"Seoul",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1710055800
+            },
+            "race_form":{
+               "distance":1400,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"e59d2021-a879-11e7-99a6-06918c628bb8",
+                  "name":"Clear",
+                  "short_name":"clear",
+                  "icon_uri":"Clear"
+               },
+               "weather_id":"e59d2021-a879-11e7-99a6-06918c628bb8",
+               "race_comment":"YEONGUNG BUHWAL (5) was an emphatic winner last time over 1200m at this track with today's rider Moon Se Young engaged. Has the pace to be in a prominent position from the outset. Sure to be in the finish. EAST JUMP (3) broke through for her maiden win over 1300m at this track last time, scoring comfortably. Sparingly raced and has more to offer. Drawn well close to the inside and she is worth including. ECLAIRFURY (7) started at $8 last time on the back of a win at this track two starts ago but was below her best, finishing seventh over 1400m at this track. Hard to beat in this suitable race. CHUNJI GWANGPUNG (11) didn't make an impact at his last run before going for a spell on December 30 finishing ninth and beaten 12 lengths over 1600m at this track. Definite top-three chance.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Seoul\",\"state\":\"KOR\",\"country\":\"KOR\",\"number\":8,\"race_name\":\"7F Hcap\",\"time\":\"2024-03-10T07:30:00Z\",\"class\":\"HCP, C3\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":86416},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Sand\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"YEONGUNG BUHWAL (5) was an emphatic winner last time over 1200m at this track with today's rider Moon Se Young engaged. Has the pace to be in a prominent position from the outset. Sure to be in the finish. EAST JUMP (3) broke through for her maiden win over 1300m at this track last time, scoring comfortably. Sparingly raced and has more to offer. Drawn well close to the inside and she is worth including. ECLAIRFURY (7) started at $8 last time on the back of a win at this track two starts ago but was below her best, finishing seventh over 1400m at this track. Hard to beat in this suitable race. CHUNJI GWANGPUNG (11) didn't make an impact at his last run before going for a spell on December 30 finishing ninth and beaten 12 lengths over 1600m at this track. Definite top-three chance."
+            },
+            "venue_id":"098f424e-c75e-4983-8032-c82cec0d76ad",
+            "venue_name":"Seoul",
+            "venue_state":"KOR",
+            "venue_country":"KOR"
+         },
+         "4df25174-bd60-4b46-9c9e-7a1e1a3c2240":{
+            "race_id":"4df25174-bd60-4b46-9c9e-7a1e1a3c2240",
+            "race_name":"Race 2 - 1300",
+            "race_number":2,
+            "meeting_id":"cabb5fa0-3bd0-4926-b324-95a573617dfd",
+            "meeting_name":"Kochi",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1710055800
+            },
+            "race_form":{
+               "distance":1300,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"TORTA CAPRESE (10) produced a good effort last start over this distance at this track, scoring by 5 lengths. Has a strong record this course, scoring at two of four starts. Best form puts him right in this. LILY FUCHSIA (8) made steady ground over 1400m at this track to finish midfield last time out. Honest record at this distance and rates among the leading chances. FRIANDISE (12) finished out of the money two starts back then was beaten 9 lengths when sixth over 1400m at this track two weeks ago. Finds a nice race and can feature in the finish. KAZENO TENOHIRA (2) settled well back from the inside draw last start before coming home nicely to finish 4 lengths away in fourth over 1400m at this track. Solid top-three prospects.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Kochi\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":2,\"race_name\":\"Race 2 - 1300\",\"time\":\"2024-03-10T07:30:00Z\",\"class\":\"COND\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":11047},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Dirt\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"TORTA CAPRESE (10) produced a good effort last start over this distance at this track, scoring by 5 lengths. Has a strong record this course, scoring at two of four starts. Best form puts him right in this. LILY FUCHSIA (8) made steady ground over 1400m at this track to finish midfield last time out. Honest record at this distance and rates among the leading chances. FRIANDISE (12) finished out of the money two starts back then was beaten 9 lengths when sixth over 1400m at this track two weeks ago. Finds a nice race and can feature in the finish. KAZENO TENOHIRA (2) settled well back from the inside draw last start before coming home nicely to finish 4 lengths away in fourth over 1400m at this track. Solid top-three prospects."
+            },
+            "venue_id":"4d40cec3-1539-4ac4-9027-7a436a18fca3",
+            "venue_name":"Kochi",
+            "venue_state":"JPN",
+            "venue_country":"JPN"
+         },
+         "6214794a-f3ee-4a0a-aa87-8b12731205bc":{
+            "race_id":"6214794a-f3ee-4a0a-aa87-8b12731205bc",
+            "race_name":"Carney's Feedstore Gympie \u0026 Murgon (Bm55)",
+            "race_number":9,
+            "meeting_id":"873141f5-5da1-4bf8-9d08-a15df89dbdc8",
+            "meeting_name":"Sunshine Coast Poly Track",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1710055440
+            },
+            "race_form":{
+               "distance":1100,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+                  "name":"Synthetic",
+                  "short_name":"synthetic"
+               },
+               "track_condition_id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+               "race_comment":"CHASETON (2) produced an encouraging effort when he opened this campaign with a second, beaten 1.3 lengths over 1000m at this track. Will be fitter for that and his lone win came at this distance. With improvement likely he has winning claims. MY DOG DIESEL (1) missed by just a nose first up then atoned last time, showing speed and digging deep to score by a neck over 1050m at Gold Coast Poly. Yet to miss a place in six attempts at this distance, winning three. Draws for a soft run so can go on with it. ONE IN ALL (5) faded out last time but led throughout two back at Sunshine Coast. Draws well so is worth another chance. TORRE EGGER (8) registered his first win last start over 1050m at Gold Coast Poly, getting home by 1.3 lengths. Can be competitive again.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Sunshine Coast Poly Track\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":9,\"race_name\":\"Carney's Feedstore Gympie \\u0026 Murgon (Bm55)\",\"time\":\"2024-03-10T07:24:00Z\",\"class\":\"BM55\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":28000},\"rail_position\":\"True.\",\"track_direction\":\"Right\",\"track_surface\":\"Turf\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"CHASETON (2) produced an encouraging effort when he opened this campaign with a second, beaten 1.3 lengths over 1000m at this track. Will be fitter for that and his lone win came at this distance. With improvement likely he has winning claims. MY DOG DIESEL (1) missed by just a nose first up then atoned last time, showing speed and digging deep to score by a neck over 1050m at Gold Coast Poly. Yet to miss a place in six attempts at this distance, winning three. Draws for a soft run so can go on with it. ONE IN ALL (5) faded out last time but led throughout two back at Sunshine Coast. Draws well so is worth another chance. TORRE EGGER (8) registered his first win last start over 1050m at Gold Coast Poly, getting home by 1.3 lengths. Can be competitive again."
+            },
+            "venue_id":"641109e0-8680-4190-80dc-420aeaa619cc",
+            "venue_name":"Sunshine Coast Poly Track",
+            "venue_state":"QLD",
+            "venue_country":"AUS"
+         },
+         "715053fa-e379-4fc4-8e30-7f210c85002e":{
+            "race_id":"715053fa-e379-4fc4-8e30-7f210c85002e",
+            "race_name":"Sportsbet Maiden Final (Vicgreys)",
+            "race_number":3,
+            "meeting_id":"420e710b-400d-408e-96ec-9acde649939d",
+            "meeting_name":"Sale",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1710055680
+            },
+            "race_form":{
+               "distance":435,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"e59d2021-a879-11e7-99a6-06918c628bb8",
+                  "name":"Clear",
+                  "short_name":"clear",
+                  "icon_uri":"Clear"
+               },
+               "weather_id":"e59d2021-a879-11e7-99a6-06918c628bb8",
+               "race_comment":"MINH TEDDY (2) was unwanted in betting last start but proved too quick with an all-the-way win over 435m at this track in a Maiden H, scoring by 4.5 lengths (24.63). Can make it two on the bounce. ASTON SPRITZ (6) stalked the lead then burst clear to score (24.88) at this track in a Maiden H over 435m. Form should stack up. DAINTREE GODDESS (3) crossed over from out wide last start before finishing second (24.91) at this track in a Maiden H over 435m. Solid formlines coming through her last run. Likely to be in the finish again. FRANTIC (8) comes into calculations after placing at first outing.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Sale\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":3,\"race_name\":\"Sportsbet Maiden Final (Vicgreys)\",\"time\":\"2024-03-10T07:28:00Z\",\"class\":\"Maiden Final\",\"start_type\":\"\",\"prizemonies\":{\"1st\":1950,\"2nd\":600,\"3rd\":300,\"4th\":75,\"5th\":0,\"6th\":0,\"7th\":0,\"8th\":0,\"total_value\":2925},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"MINH TEDDY (2) was unwanted in betting last start but proved too quick with an all-the-way win over 435m at this track in a Maiden H, scoring by 4.5 lengths (24.63). Can make it two on the bounce. ASTON SPRITZ (6) stalked the lead then burst clear to score (24.88) at this track in a Maiden H over 435m. Form should stack up. DAINTREE GODDESS (3) crossed over from out wide last start before finishing second (24.91) at this track in a Maiden H over 435m. Solid formlines coming through her last run. Likely to be in the finish again. FRANTIC (8) comes into calculations after placing at first outing."
+            },
+            "venue_id":"bc5d56ac-78b0-45a6-a09f-ffbb5753ad52",
+            "venue_name":"Sale",
+            "venue_state":"VIC",
+            "venue_country":"AUS"
+         },
+         "79bda488-c48f-4420-be1c-bdeb5fdc1482":{
+            "race_id":"79bda488-c48f-4420-be1c-bdeb5fdc1482",
+            "race_name":"Allowance Race",
+            "race_number":12,
+            "meeting_id":"4bd93f1a-02c3-4216-9712-07545de42a41",
+            "meeting_name":"Nakayama",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1710055500
+            },
+            "race_form":{
+               "distance":1200,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"GRAND PLAISIR (4) is back from a break of three-and-a-half months. Raced below par at his only appearance last prep when ninth over 1400m at Chukyo. Better this trip and draws well for the first time in a while. Likely to push forward and race on the pace. Go close on best figures. SILVER GHOST (11) started at $7.50 last time and ran below expectations, finishing fifth and beaten 5.5 lengths at Kokura Dirt over 1000m. Well placed and there is no reason she cannot find winning ways. AINO SENSHI (2) has not appeared since he finished 16th over 1800m at this track on December 9. Has found the right race and is worth including. DIAMOND BEACH (15) proved too strong two runs ago but was less impressive last time out when sixth over 1200m at this track, beaten 6 lengths. One of the main hopes.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Nakayama\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":12,\"race_name\":\"Allowance Race\",\"time\":\"2024-03-10T07:25:00Z\",\"class\":\"ALLOW\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":155482},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Dirt\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"GRAND PLAISIR (4) is back from a break of three-and-a-half months. Raced below par at his only appearance last prep when ninth over 1400m at Chukyo. Better this trip and draws well for the first time in a while. Likely to push forward and race on the pace. Go close on best figures. SILVER GHOST (11) started at $7.50 last time and ran below expectations, finishing fifth and beaten 5.5 lengths at Kokura Dirt over 1000m. Well placed and there is no reason she cannot find winning ways. AINO SENSHI (2) has not appeared since he finished 16th over 1800m at this track on December 9. Has found the right race and is worth including. DIAMOND BEACH (15) proved too strong two runs ago but was less impressive last time out when sixth over 1200m at this track, beaten 6 lengths. One of the main hopes."
+            },
+            "venue_id":"c63ec15d-ef8c-4185-9b79-2a1c0f772404",
+            "venue_name":"Nakayama",
+            "venue_state":"JPN",
+            "venue_country":"JPN"
+         },
+         "7ffac9f4-1dbb-429f-9b31-372ca95718c5":{
+            "race_id":"7ffac9f4-1dbb-429f-9b31-372ca95718c5",
+            "race_name":"Lung Kong Hcp (C4)",
+            "race_number":6,
+            "meeting_id":"ccd9ef3c-1dd3-4f73-bad4-cc710d6a9345",
+            "meeting_name":"Sha Tin",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1710055800
+            },
+            "race_form":{
+               "distance":1400,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"PATCH OF THETA (7) has been the eye-catcher his past couple of outings when getting a long way back from wide draws. He can be much closer this time with a favourable alley and Bowman in the saddle. He's hinting that he's better than he's shown so far, and now he gets his chance to prove it. VOYAGE SAMURAI (2) led throughout to win by 0.3L on debut over this course and distance. Expect Leung to adopt similar tactics and he's sure to make his presence felt despite the rise in weight. GOLDEN RISE (3) meets VOYAGE SAMURAI better at the weights for a 2L defeat last start. That followed an impressive win over this course and distance as favourite. McDonald rides today and there may be more to come from him yet. RIVER VIEWS (11) ties through GOLDEN RISE last start and has to be included.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Sha Tin\",\"state\":\"HK\",\"country\":\"HK\",\"number\":6,\"race_name\":\"Lung Kong Hcp (C4)\",\"time\":\"2024-03-10T07:30:00Z\",\"class\":\"RST60-40, C4\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":229862},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Turf\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"PATCH OF THETA (7) has been the eye-catcher his past couple of outings when getting a long way back from wide draws. He can be much closer this time with a favourable alley and Bowman in the saddle. He's hinting that he's better than he's shown so far, and now he gets his chance to prove it. VOYAGE SAMURAI (2) led throughout to win by 0.3L on debut over this course and distance. Expect Leung to adopt similar tactics and he's sure to make his presence felt despite the rise in weight. GOLDEN RISE (3) meets VOYAGE SAMURAI better at the weights for a 2L defeat last start. That followed an impressive win over this course and distance as favourite. McDonald rides today and there may be more to come from him yet. RIVER VIEWS (11) ties through GOLDEN RISE last start and has to be included."
+            },
+            "venue_id":"9ecff64f-4f5b-49f8-a81c-83623f3e5eed",
+            "venue_name":"Sha Tin",
+            "venue_state":"HK",
+            "venue_country":"HK"
+         },
+         "8ba7b0e6-97f4-4ac7-8155-ef8e96dec686":{
+            "race_id":"8ba7b0e6-97f4-4ac7-8155-ef8e96dec686",
+            "race_name":"Wellington \u0026 Reeves Commercial Hcp (C2)",
+            "race_number":4,
+            "meeting_id":"e95a3152-87c7-4752-8c45-53bdbeccf059",
+            "meeting_name":"Albany",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1710055200
+            },
+            "race_form":{
+               "distance":1000,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"11d7e662-487a-11ea-9d54-4689356d4521",
+                  "name":"Good4",
+                  "short_name":"good4"
+               },
+               "track_condition_id":"11d7e662-487a-11ea-9d54-4689356d4521",
+               "weather":{
+                  "id":"e59d2021-a879-11e7-99a6-06918c628bb8",
+                  "name":"Clear",
+                  "short_name":"clear",
+                  "icon_uri":"Clear"
+               },
+               "weather_id":"e59d2021-a879-11e7-99a6-06918c628bb8",
+               "race_comment":"\r\nMY LOVELY PET (4) was a touch plain last time out but the two runs to start the preparation were good enough to play a major role in this. His only victory came over this sprint trip and is sure to give backers a sight. HOT CHATTER (2) has been in a purple patch of late with a win and four placings from her past five outings. Cannot ignore mares in form. MAKE YOUR POINT (3) boasts a win over this course and distance and will be near his peak now fourth-up from the spell. In the mix. KING HALLOWELL (5) gets in very well at the weights with the 4kg claim and may make his presence felt. SOSIPATRA (7) broke the maiden status last time out and can go right on with the job now.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Albany\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Wellington \\u0026 Reeves Commercial Hcp (C2)\",\"time\":\"2024-03-10T07:20:00Z\",\"class\":\"CL2\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":24000},\"rail_position\":\"True.\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"\r\nMY LOVELY PET (4) was a touch plain last time out but the two runs to start the preparation were good enough to play a major role in this. His only victory came over this sprint trip and is sure to give backers a sight. HOT CHATTER (2) has been in a purple patch of late with a win and four placings from her past five outings. Cannot ignore mares in form. MAKE YOUR POINT (3) boasts a win over this course and distance and will be near his peak now fourth-up from the spell. In the mix. KING HALLOWELL (5) gets in very well at the weights with the 4kg claim and may make his presence felt. SOSIPATRA (7) broke the maiden status last time out and can go right on with the job now."
+            },
+            "venue_id":"4c26a5bd-0962-407d-9547-0812c92a56cc",
+            "venue_name":"Albany",
+            "venue_state":"WA",
+            "venue_country":"AUS"
+         },
+         "9a6c5242-41a1-4277-b9a1-3ead79777fdb":{
+            "race_id":"9a6c5242-41a1-4277-b9a1-3ead79777fdb",
+            "race_name":"Bistro Open For Dinner Maiden",
+            "race_number":2,
+            "meeting_id":"3818bce6-0ceb-4b64-9b76-4ed96675d61c",
+            "meeting_name":"Richmond",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1710055320
+            },
+            "race_form":{
+               "distance":401,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"SOUL ABLAZE (6) jumped from this box last time and also the same course and distance when a one length second (23.14) in a Maiden. Has the ability and looks hard to top. GO FORWARD CATHY (3) made an eye-catching debut when charged out of the boxes with a fast early split and led for much of the way before being grabbed late, finishing a 2.25 lengths second at this track over 401m in 23.22. Improver who must come into calculations on debut effort. MY BAROQUE LOVE (2) jumped from this box last time and also the same course and distance when a 5 length third (23.39) in a Maiden. Has the ability and looks a key chance. LAST GRAND (1) can sneak into the finish. ",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Richmond\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"Bistro Open For Dinner Maiden\",\"time\":\"2024-03-10T07:22:00Z\",\"class\":\"Maiden\",\"start_type\":\"\",\"prizemonies\":{\"1st\":1200,\"2nd\":340,\"3rd\":250,\"4th\":100,\"total_value\":1890},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"SOUL ABLAZE (6) jumped from this box last time and also the same course and distance when a one length second (23.14) in a Maiden. Has the ability and looks hard to top. GO FORWARD CATHY (3) made an eye-catching debut when charged out of the boxes with a fast early split and led for much of the way before being grabbed late, finishing a 2.25 lengths second at this track over 401m in 23.22. Improver who must come into calculations on debut effort. MY BAROQUE LOVE (2) jumped from this box last time and also the same course and distance when a 5 length third (23.39) in a Maiden. Has the ability and looks a key chance. LAST GRAND (1) can sneak into the finish. "
+            },
+            "venue_id":"d9bf49ec-2497-4ef7-ace2-486f60bae4b2",
+            "venue_name":"Richmond",
+            "venue_state":"NSW",
+            "venue_country":"AUS"
+         },
+         "a30ef7dc-e0f2-428d-a9b6-f8ee469d7bbf":{
+            "race_id":"a30ef7dc-e0f2-428d-a9b6-f8ee469d7bbf",
+            "race_name":"Waters Memorial Ss Pace",
+            "race_number":5,
+            "meeting_id":"8dfe8b48-7bce-4a95-b00f-a8ba765964ba",
+            "meeting_name":"Bridgetown",
+            "category_id":"161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start":{
+               "seconds":1710055500
+            },
+            "race_form":{
+               "distance":2190,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"DOURADO (8) made a winning return at his latest appearance eight days ago, getting home by 2.75 metres over 2503m at Bunbury. Big chance in this comparable race. BONSTAR (7) resumes from a spell of four-and-a-half months after closing off last campaign in good form, the last run being a solid third over 2116m at Pinjarra. Sure to prove hard to beat on her return. CHEAP THRILLZ (5) is in the mix following a fourth at her most recent appearance over 2277m at Williams. IMMACHULATE (4) has been about the mark of late and must be respected, the latest offering a sound fourth at Bunbury over 2503m.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Bridgetown\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":5,\"race_name\":\"Waters Memorial Ss Pace\",\"time\":\"2024-03-10T07:25:00Z\",\"class\":\"L1+ HWOE $0+\",\"start_type\":\"Standing\",\"prizemonies\":{\"1st\":4340,\"2nd\":1321,\"3rd\":717,\"4th\":491,\"5th\":302,\"total_value\":8000},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"DOURADO (8) made a winning return at his latest appearance eight days ago, getting home by 2.75 metres over 2503m at Bunbury. Big chance in this comparable race. BONSTAR (7) resumes from a spell of four-and-a-half months after closing off last campaign in good form, the last run being a solid third over 2116m at Pinjarra. Sure to prove hard to beat on her return. CHEAP THRILLZ (5) is in the mix following a fourth at her most recent appearance over 2277m at Williams. IMMACHULATE (4) has been about the mark of late and must be respected, the latest offering a sound fourth at Bunbury over 2503m."
+            },
+            "venue_id":"86fb87af-2b8e-40ac-a804-46946878871b",
+            "venue_name":"Bridgetown",
+            "venue_state":"WA",
+            "venue_country":"AUS"
+         }
+      }
+   },
+   "message":"Next 10 races from each category"
+}
